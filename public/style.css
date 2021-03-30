@@ -1,0 +1,43 @@
+/****** Main Styling ******/
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #222;
+    background-color: #70939c;
+    text-align: center;
+  }
+  
+  .container {
+    padding: 0;
+    margin-top: 40px;
+  }
+  
+  .footer {
+    margin-top: 60px;
+  }
+  
+  a {
+    color: #2574A9;
+  }
+  
+  input {
+    display: block;
+    position: relative;
+    margin: 10px auto;
+  }
+  
+  input#button {
+    width: 255px;
+  }
+  
+  .view {
+    position:relative;
+    margin: auto;
+    margin-top: 50px;
+    border: 1px  solid  rgb(121, 100, 100);
+    padding: 30px;
+    width: 60%;
+    min-width: 400px;
+  }
+  
